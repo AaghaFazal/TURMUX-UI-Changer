@@ -251,7 +251,7 @@ updatedw() {
 			clear && echo \"Update Success\" && echo -------------- && figlet Success && figlet \$(sed '1q;d' 'ver.cfg') && figlet LgcyAlex && echo Restart to apply changes
 		fi
 	else
-		git clone https://github.com/lgcyalex/TURMUX-UI-Changer.git
+		git clone https://github.com/LgcyAlex/TURMUX-UI-Changer.git
 		cd TURMUX-UI-Changer
 		prm sh
 		clear
