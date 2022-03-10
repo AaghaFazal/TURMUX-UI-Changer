@@ -1,0 +1,25 @@
+ #Made By **ŁGcY・AŁEX**
+### This script will make your termux look better. Enjoy! ! 
+![logo](logo.png)
+#### Installation Commands
+
+
+1.  apt update
+
+
+2. apt upgrade -y
+
+
+3.  pkg install git -y
+
+
+4.  git clone https://github.com/lgcyalex/TURMUX-UI-Changer
+
+5.  bash setup.sh
+
+
+                                        **Done ✅**
+
+
+#### Uninstalling
+1. Run the script again to **uninstall UI**
