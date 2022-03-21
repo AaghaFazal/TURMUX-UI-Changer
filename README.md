@@ -15,7 +15,7 @@
 
 4.  git clone https://github.com/lgcyalex/TURMUX-UI-Changer
 
-5.  TURMUX-UI-Changer
+5.  cd TURMUX-UI-Changer
 
 6.  bash setup.sh
 
