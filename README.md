@@ -10,8 +10,8 @@
 2. apt upgrade -y
 
 
-                                        pkg install git -y
-3.
+3.                                        pkg install git -y
+  
 
 
 4.  git clone https://github.com/lgcyalex/TURMUX-UI-Changer
