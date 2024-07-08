@@ -10,7 +10,7 @@
 2. apt upgrade -y
 
 
-                                        **pkg install git -y**
+                                        pkg install git -y
 3.
 
 
